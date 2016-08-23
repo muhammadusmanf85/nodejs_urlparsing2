@@ -1,0 +1,23 @@
+{
+  "name": "urlparser",
+  "version": "1.0.0",
+  "description": "urlparser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "parser"
+  ],
+  "author": "Usman Faisal",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.1",
+    "cheerio": "^0.20.0",
+    "http": "0.0.0",
+    "request": "^2.74.0",
+    "url": "^0.11.0",
+    "valid-url": "^1.0.9"
+  }
+}
